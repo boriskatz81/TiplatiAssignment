@@ -49,6 +49,7 @@ test.describe('Example Test Suite', () => {
     });
 
     test('Test 3 - Open StackOverflow', async () => {
+        // Just checking some stuff
         await BaseDriver.page.goto('https://demoqa.com/automation-practice-form' , { waitUntil: 'domcontentloaded', timeout: 120000 });
         const finalPage = new FinalPage(BaseDriver.page);
         await finalPage.fillName("Boris" , "Katz");
