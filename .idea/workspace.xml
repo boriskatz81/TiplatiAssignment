@@ -4,157 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adaa6468-6275-48ac-b982-8830538a442d" name="Changes" comment="ready">
-      <change afterPath="$PROJECT_DIR$/.idea/TiplatiAssignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/playwright" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/playwright-core" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/playwright.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/playwright.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@playwright/test/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@playwright/test/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@playwright/test/reporter.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/bin/reinstall_chrome_beta_linux.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/bin/reinstall_msedge_beta_win.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/bin/reinstall_msedge_stable_win.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/index.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/cli/driver.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/client/artifact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/client/browserContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/client/browserType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/client/cdpSession.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/client/channelOwner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/client/clientHelper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/client/events.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/client/frame.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/client/platform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/client/selectors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/client/webSocket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/generated/bindingsControllerSource.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/generated/storageScriptSource.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/remote/playwrightConnection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/accessibility.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/bidi/third_party/bidiDeserializer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/bidi/third_party/bidiProtocol.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/bidi/third_party/bidiProtocolPermissions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/browserType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/chromium/chromiumSwitches.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/chromium/crDevTools.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/chromium/crExecutionContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/chromium/crInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/chromium/crPdf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/chromium/crServiceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/codegen/javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/debugger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/dispatchers/androidDispatcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/dispatchers/browserTypeDispatcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/dispatchers/dialogDispatcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/dispatchers/jsHandleDispatcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/dispatchers/tracingDispatcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/dom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/errors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/firefox/ffConnection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/firefox/ffInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/har/harTracer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/helper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/recorder/chat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/registry/browserFetcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/socksClientCertificatesInterceptor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/trace/recorder/tracing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/trace/test/inMemorySnapshotter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/trace/viewer/traceViewer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/transport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/utils/env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/utils/expectUtils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/utils/image_tools/imageChannel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/utils/network.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/utils/profiler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/utils/task.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/utils/userAgent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/utils/wsServer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/utils/zones.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/webkit/protocol.d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/webkit/wkAccessibility.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/webkit/wkInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/webkit/wkInterceptableRequest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/webkit/wkPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/webkit/wkWorkers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/server/webkit/wsl/webkit-wsl-transport-client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/utils/isomorphic/ariaSnapshot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/utils/isomorphic/assert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/utils/isomorphic/cssTokenizer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/utils/isomorphic/manualPromise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/utils/isomorphic/mimeType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/utils/isomorphic/stringUtils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/utils/isomorphic/timeoutRunner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/utils/isomorphic/traceUtils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/utils/isomorphic/types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/utilsBundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/utilsBundleImpl/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/utilsBundleImpl/xdg-open" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/vite/recorder/assets/codeMirrorModule-RJCXzfmE.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/vite/recorder/playwright-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/vite/traceViewer/assets/codeMirrorModule-eyVcHN77.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/vite/traceViewer/assets/xtermModule-CsJ4vdCR.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/vite/traceViewer/defaultSettingsView.TQ8_7ybu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/vite/traceViewer/uiMode.DRQ310U5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/lib/zipBundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright-core/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/NOTICE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/cli.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/agents/generator.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/common/esmLoaderHost.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/common/expectBundleImpl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/common/fixtures.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/common/poolBuilder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/common/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/isomorphic/folders.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/isomorphic/stringInternPool.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/matchers/expect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/matchers/toHaveURL.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/matchers/toMatchSnapshot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/mcp/browser/actions.d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/mcp/browser/tools.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/mcp/browser/tools/evaluate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/mcp/browser/tools/files.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/mcp/browser/tools/navigate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/mcp/browser/tools/screenshot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/mcp/browser/tools/tabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/mcp/browser/tools/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/mcp/browser/tools/wait.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/mcp/browser/watchdog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/mcp/config.d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/mcp/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/mcp/sdk/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/reporters/blob.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/reporters/github.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/reporters/junit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/reporters/line.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/reporters/versions/blobV1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/runner/loadUtils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/runner/loaderHost.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/runner/processHost.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/runner/rebase.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/runner/tasks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/runner/testGroups.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/runner/testServer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/runner/watchMode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/third_party/tsconfig-loader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/transform/babelBundleImpl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/transform/transform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/worker/timeoutManager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/lib/worker/workerMain.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/playwright/test.d.ts" afterDir="false" />
+    <list default="true" id="adaa6468-6275-48ac-b982-8830538a442d" name="Changes" comment="ready - 3">
+      <change afterPath="$PROJECT_DIR$/src/pages/contactDetailsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/FinalPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/TablePage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/wikipediaPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/tipaltiHomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-results/.last-run.json" beforeDir="false" afterPath="$PROJECT_DIR$/test-results/.last-run.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/main.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/main.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,13 +44,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/boris/eclipse-workspace/TiplatiAssignment/TiplatiAssignment/src/pages",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/boris/eclipse-workspace/TiplatiAssignment/TiplatiAssignment/src/pages&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\boris\eclipse-workspace\TiplatiAssignment\TiplatiAssignment\src\pages" />
@@ -214,12 +72,28 @@
       <option name="project" value="LOCAL" />
       <updated>1763246993431</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ready - 2">
+      <created>1763248213694</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763248213694</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ready - 3">
+      <created>1763248378811</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763248378811</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready" />
+    <MESSAGE value="ready - 2" />
+    <MESSAGE value="ready - 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready - 3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
